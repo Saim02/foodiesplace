@@ -1,8 +1,6 @@
 # foodiesplace
 
-Search Food Recipes
-
-Made with React.
+An ingredients searching web app made using Spoonacular API and React.
 
 ## Run Site
 
